@@ -2,4 +2,4 @@
 exerciseuser_accessKeys.csv
 .ipynb_checkpoints
 .idea
- /hr_policy_rag/__pycache__/
+__pycache__/
