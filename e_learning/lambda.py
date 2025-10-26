@@ -19,7 +19,7 @@ def lambda_handler(event, context):
                 'modelArn': 'arn:aws:bedrock:us-east-1::foundation-model/amazon.nova-micro-v1:0',
                 'retrievalConfiguration': {
                     'vectorSearchConfiguration': {
-                        'numberOfResults': 5  # Adjust as needed
+                        'numberOfResults': 5
                     }
                 }
             }
